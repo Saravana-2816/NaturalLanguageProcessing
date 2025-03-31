@@ -1,2 +1,11 @@
-# NaturalLanguageProcessing
-Exploring the world of Natural Language Processing! This repository documents my learning journey in NLP, covering text preprocessing, embeddings, transformers, and real-world applications. Currently experimenting with fine-tuning models, Named Entity Recognition (NER), and speech-to-text techniques. Stay tuned for updates!
+🚀 NLP Learning Journey
+Welcome to my Natural Language Processing (NLP) learning repository! This is where I document my progress, experiments, and insights as I dive deeper into the world of NLP.
+
+📌 About This Repository
+This repository serves as a structured guide to my NLP learning path, covering various concepts, techniques, and real-world applications. I will be adding notes, code implementations, and project updates regularly.
+
+🛠️ Topics Covered
+✅ Text Preprocessing (Tokenization, Stemming, Lemmatization, Stopwords Removal)
+✅ Word Embeddings (Word2Vec, GloVe, FastText)
+✅ Transformers & Large Language Models (BERT, GPT, T5)
+✅ Named Entity Recognition (NER)
